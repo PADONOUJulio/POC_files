@@ -1,0 +1,24 @@
+  File: /mnt/ntfs/TestDir/test2.txt
+  Size: 11        	Blocks: 1          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 73          Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2025-05-12 08:53:19.955077100 -0400
+Modify: 2025-05-12 08:53:19.956103000 -0400
+Change: 2025-05-12 08:53:19.956103000 -0400
+ Birth: -
+  File: /mnt/ext4/TestDir/test2.txt
+  Size: 11        	Blocks: 8          IO Block: 4096   regular file
+Device: 821h/2081d	Inode: 1438979     Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2025-05-12 08:54:10.938959152 -0400
+Modify: 2025-05-12 08:54:10.938959152 -0400
+Change: 2025-05-12 08:54:10.938959152 -0400
+ Birth: 2025-05-12 08:54:10.938959152 -0400
+  File: /mnt/fat32/TestDir/test2.txt
+  Size: 11        	Blocks: 16         IO Block: 8192   regular file
+Device: 831h/2097d	Inode: 465         Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2025-05-11 20:00:00.000000000 -0400
+Modify: 2025-05-12 08:55:26.000000000 -0400
+Change: 2025-05-12 08:55:26.000000000 -0400
+ Birth: 2025-05-12 08:55:27.850000000 -0400
